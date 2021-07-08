@@ -1,1 +1,1 @@
-# Infinite_runner_game_Nakshath-1
+# project-38-INFINTE-RUNNER-GAME
